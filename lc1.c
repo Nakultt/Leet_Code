@@ -21,7 +21,7 @@ void main()
         {
             if(num[i]+num[j]==t)
             {
-                printf("%d,%d" ,i+1,j+1);
+                printf("%d,%d" ,i,j);
             }
         }
     }
